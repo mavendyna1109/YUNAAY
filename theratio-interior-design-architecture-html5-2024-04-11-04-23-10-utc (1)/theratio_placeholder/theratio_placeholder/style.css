@@ -56,7 +56,23 @@ html {
   -webkit-text-size-adjust: 100%;
   /* 2 */
 }
-
+/* Custom Fonts */
+@font-face {
+  font-family: comfortaBold;
+  src: url(../theratio_placeholder/fonts/Comfortaa-Bold.ttf);
+}
+@font-face {
+  font-family: comfortaLight;
+  src: url(../theratio_placeholder/fonts/Comfortaa-Light.ttf);
+}
+@font-face {
+  font-family: comfortaRegular;
+  src: url(../theratio_placeholder/fonts/Comfortaa-Regular.ttf);
+}
+@font-face {
+  font-family: vivoRegularExtended;
+  src: url(../theratio_placeholder/fonts/vivo-RegularExtended.ttf);
+}
 /* Sections
 	 ========================================================================== */
 /**
@@ -64,6 +80,7 @@ html {
  */
 body {
   margin: 0;
+  font-family:comfortaBold ;
 }
 
 /* Grouping content
@@ -1534,6 +1551,7 @@ a:hover, a:active {
   -ms-flex-align: center;
   align-items: center;
   height: 100%;
+  
 }
 .main-navigation > ul > li:last-child {
   margin-right: 0;
@@ -7133,7 +7151,7 @@ div.elementor-widget-heading .elementor-heading-title {
     max-width: 33.33333333%;
 }
 .side-panel .side-panel-block {
-    
+
 }
 .header_mobile .container-fluid {
     padding-left: 0;
@@ -8204,17 +8222,17 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 }
 /* Index 1 */
 .tp-caption-big {
-    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.3); 
-    color: transparent; 
-    text-transform: uppercase; 
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.3);
+    color: transparent;
+    text-transform: uppercase;
     font-family: 'Titillium Web';
 }
 .tp-caption-main, .tp-caption {
     font-family: 'Titillium Web';
 }
 .tp-desc {
-    z-index: 10; 
-    font-weight: 500; 
+    z-index: 10;
+    font-weight: 500;
     color: #fff;
     font-family: 'Raleway';
 }
@@ -8621,16 +8639,16 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 .s-light .studio-testi-slide-block{
     background-color: #1A1A1A;
 }
-.ot-testimonials.v-dark .ot-testimonials-slider-s1.owl-theme .owl-nav .owl-next, 
-.ot-testimonials.v-dark .ot-testimonials-slider-s1.owl-theme .owl-nav .owl-prev, 
-.ot-testimonials.v-dark .ot-testimonials-slider-s2.owl-theme .owl-nav .owl-next, 
+.ot-testimonials.v-dark .ot-testimonials-slider-s1.owl-theme .owl-nav .owl-next,
+.ot-testimonials.v-dark .ot-testimonials-slider-s1.owl-theme .owl-nav .owl-prev,
+.ot-testimonials.v-dark .ot-testimonials-slider-s2.owl-theme .owl-nav .owl-next,
 .ot-testimonials.v-dark .ot-testimonials-slider-s2.owl-theme .owl-nav .owl-prev {
     color: #fff;
     background: #0a0a0a;
 }
-.ot-testimonials.v-dark .ot-testimonials-slider-s1.owl-theme .owl-nav .owl-next:hover, 
-.ot-testimonials.v-dark .ot-testimonials-slider-s1.owl-theme .owl-nav .owl-prev:hover, 
-.ot-testimonials.v-dark .ot-testimonials-slider-s2.owl-theme .owl-nav .owl-next:hover, 
+.ot-testimonials.v-dark .ot-testimonials-slider-s1.owl-theme .owl-nav .owl-next:hover,
+.ot-testimonials.v-dark .ot-testimonials-slider-s1.owl-theme .owl-nav .owl-prev:hover,
+.ot-testimonials.v-dark .ot-testimonials-slider-s2.owl-theme .owl-nav .owl-next:hover,
 .ot-testimonials.v-dark .ot-testimonials-slider-s2.owl-theme .owl-nav .owl-prev:hover {
     color: #919191;
 }
@@ -9072,7 +9090,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 }
 .ot-accordions.s-dark .acc-item{
     background-color: transparent;
-} 
+}
 .ot-accordions.s-dark .acc-item .acc-toggle {
     color: #fff;
 }
@@ -9570,7 +9588,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
       margin-right: 234px;
   }
   .testi-slide-block-3 {
-      margin-top: 70px; 
+      margin-top: 70px;
       padding: 110px 246px 110px 117px;
   }
 }
@@ -9808,7 +9826,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 .owl-theme .owl-dots .owl-dot:focus {
     outline: none;
 }
-@media (max-width: 992px){ 
+@media (max-width: 992px){
     .services-single .widget_nav_menu {
       padding-bottom: 40px;
     }
@@ -10299,7 +10317,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 
 /* #Contact form
 ================================================== */
- 
+
 #ajax-form label {
   display: block;
   font-family: 'Raleway', sans-serif;
