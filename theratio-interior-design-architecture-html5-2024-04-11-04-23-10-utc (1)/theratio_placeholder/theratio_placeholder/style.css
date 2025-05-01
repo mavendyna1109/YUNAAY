@@ -1378,6 +1378,8 @@ a:hover, a:active {
   vertical-align: middle;
   align-items: center;
   line-height: 1;
+  margin-left: 6px;
+  margin-top: 6px;
 }
 #site-logo img {
   height: 90px;
@@ -2104,6 +2106,8 @@ a:hover, a:active {
 
   .header_mobile .mlogo_wrapper {
     position: relative;
+    margin-left: 6px;
+    margin-top: 6px;
   }
   .header_mobile .mlogo_wrapper img {
     height: 90px;
