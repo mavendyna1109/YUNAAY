@@ -7390,13 +7390,13 @@ section {
     margin-bottom: 20px;
 }
 .icon-bg-1 {
-    background-image: url(https://via.placeholder.com/715x628.png);
+    background-image: url(images/servicebg1.jpg);
 }
 .icon-bg-2 {
-    background-image: url(https://via.placeholder.com/715x628.png);
+    background-image: url(images/servicebg2.jpg);
 }
 .icon-bg-3 {
-    background-image: url(https://via.placeholder.com/715x628.png);
+    background-image: url(images/servicebg3.jpg);
 }
 .icon-bg-4 {
     background-image: url(https://via.placeholder.com/715x628.png);
@@ -7408,13 +7408,13 @@ section {
     background-image: url(https://via.placeholder.com/715x628.png);
 }
 .icon-bg-1:hover {
-    background-image: url(https://via.placeholder.com/715x628.png);
+    background-image: url(images/servicebg1white.jpg);
 }
 .icon-bg-2:hover {
-    background-image: url(https://via.placeholder.com/715x628.png);
+    background-image: url(images/servicebg2white.jpg);
 }
 .icon-bg-3:hover {
-    background-image: url(https://via.placeholder.com/715x628.png);
+    background-image: url(images/servicebg3white.jpg);
 }
 .icon-bg-4:hover {
     background-image: url(https://via.placeholder.com/715x628.png);
@@ -8402,7 +8402,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     color: #9F9E9E;
 }
 .story-1 {
-    background-image: url(https://via.placeholder.com/1920x325.png);
+    background-image: url(images/texture.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
