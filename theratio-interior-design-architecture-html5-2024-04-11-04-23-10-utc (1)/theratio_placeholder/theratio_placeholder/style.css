@@ -7085,6 +7085,7 @@ div.elementor-widget-heading .elementor-heading-title {
 .main-navigation ul.mega-sub-menu li.row {
   display: flex;
   max-width: 1200px;
+  justify-content: center;
   margin: 0 auto;
   padding: 0;
 }
@@ -8420,7 +8421,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 }
 .story-author {
     padding: 0 0 0 20px;
-    background-image: url(https://via.placeholder.com/1920x325.png);
+    background-image: url(images/Signature.png);
     background-position: 87% 92%;
     background-repeat: no-repeat;
 }
@@ -10041,6 +10042,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 }
 .panel-cinfo li .panel-list-text {
     padding-left: 14px;
+    line-height: 25px;
 }
 .panel-list-icon i:before {
     font-size: 18px;
@@ -10195,6 +10197,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 }
 .footer-list-item .list-item-text {
     padding-left: 14px;
+    line-height: 25px
 }
 .footer-list-item {
     line-height: 1;

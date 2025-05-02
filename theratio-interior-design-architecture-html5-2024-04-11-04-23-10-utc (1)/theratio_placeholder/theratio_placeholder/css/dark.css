@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 	background: transparent;
 }
 .section-team-list {
-  background-image: url(https://via.placeholder.com/1920x1577.png);
+  background-image: url(../images/bodybg.jpg);
 }
 .owl-theme .owl-dots .owl-dot.active {
 	border-color: #fff;
