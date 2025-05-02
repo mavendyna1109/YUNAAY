@@ -4469,7 +4469,7 @@ object {
   color: #1a1a1a;
 }
 .cate-lines:hover .number-stroke {
-  -webkit-text-stroke-color: #1a1a1a;
+  -webkit-text-stroke-color: #fff;
 }
 .cate-lines:hover img {
   filter: brightness(126%);
@@ -8471,10 +8471,10 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     -webkit-text-stroke-color: #FFF;
 }
 .cate-lines.s-dark:before, .cate-lines.s-dark:after {
-    background: #1A1A1A;
+    background: #fff;
 }
 .cate-lines.s-dark h2 {
-    color: #1A1A1A;
+    color: #fff;
 }
 /* Top header */
 .top-header {
