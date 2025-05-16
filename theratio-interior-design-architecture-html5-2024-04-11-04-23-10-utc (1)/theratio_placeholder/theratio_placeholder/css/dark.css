@@ -6,7 +6,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: #fff;
 }
 .ot-heading.is-dots:before {
-	border-bottom-color: #fff;
+	border-bottom-color: #eac569;
 }
 .ot-progress, .ot-progress .progress-bar, .ot-counter h6 {
 	color: #fff;
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .icon-box--bg-img.icon-box--is-line-hover:hover:after,
 .icon-box--bg-img.icon-box--is-line-hover:hover:before {
-  background-color: #fff
+  background-color: #c08a2f 
 }
 .icon-bg-2:hover {
   background-image: url(../images/servicebg2white.jpg);

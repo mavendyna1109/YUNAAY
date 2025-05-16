@@ -1170,7 +1170,7 @@ td {
   color: #1a1a1a;
 }
 .octf-btn.octf-btn-light:before, .octf-btn.octf-btn-light:after {
-  background: #fff;
+  background: #c08a2f  ;
 }
 .octf-btn.octf-btn-light:visited {
   background: #fff;
@@ -8297,7 +8297,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 .nav-home-1.tparrows:before{
   font-family: Flaticon;
   font-size: 20px;
-  color: #fff;
+  color: #c08a2f ;
   line-height: 90px;
 }
 .nav-home-1.tparrows.tp-rightarrow:before {
