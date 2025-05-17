@@ -1417,6 +1417,7 @@ a:hover, a:active {
 
 .octf-main-header {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+     background-color: #1a1a1a;
 }
 
 .octf-mainbar-container {
@@ -2089,6 +2090,7 @@ a:hover, a:active {
     -o-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+       background-color: #1a1a1a;
   }
   .header_mobile.open, .header_mobile.is-stuck {
     background: #1a1a1a;
