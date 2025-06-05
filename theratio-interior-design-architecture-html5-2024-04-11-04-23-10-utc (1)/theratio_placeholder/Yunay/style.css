@@ -7239,13 +7239,13 @@ section {
   background-color: #1A1A1A;
 }
 .page-header {
-  background-image: url('https://via.placeholder.com/1920x500.png');
+    background-image: url(images/bg-pheader.jpg);
 }
 .page-header-contact {
   background-image: url('https://via.placeholder.com/1920x500.png');
 }
 .pheader-service-detail1 {
-  background-image: url('https://via.placeholder.com/1920x500.png');
+    background-image: url(images/pheader-service-detail1.jpg);
 }
 .pheader-team {
   background-image: url('https://via.placeholder.com/1920x500.png');
@@ -7269,7 +7269,7 @@ section {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
 .pheader-portfolio {
-    background-image: url(https://via.placeholder.com/1920x500.png);
+    background-image: url(images/pheader-portfolio.jpg);
 }
 .pheader-portfolio-detail {
     background-image: url(https://via.placeholder.com/1920x500.png);
