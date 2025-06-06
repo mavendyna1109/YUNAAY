@@ -7272,7 +7272,7 @@ section {
     background-image: url(images/pheader-portfolio.jpg);
 }
 .pheader-portfolio-detail {
-    background-image: url(https://via.placeholder.com/1920x500.png);
+    background-image: url(images/pheader-single-portfolio.jpg);
 }
 
 /* Post */
@@ -8112,7 +8112,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     margin-bottom: 0;
 }
 .portfolio-detail-info {
-    background-image: url(https://via.placeholder.com/720x654.png);
+    background-image: url(images/bg-pinfo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px 50px 50px 50px;
