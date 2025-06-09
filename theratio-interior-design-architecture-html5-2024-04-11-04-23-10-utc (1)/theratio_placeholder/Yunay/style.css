@@ -7254,7 +7254,7 @@ section {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
 .pheader-about {
-    background-image: url(https://via.placeholder.com/1920x500.png);
+    background-image: url(images/pheader-aboutus.jpg);
 }
 .pheader-process {
     background-image: url(https://via.placeholder.com/1920x500.png);
@@ -7266,7 +7266,7 @@ section {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
 .pheader-faq {
-    background-image: url(https://via.placeholder.com/1920x500.png);
+    background-image: url(images/pheader-faq.jpg);
 }
 .pheader-portfolio {
     background-image: url(images/pheader-portfolio.jpg);
@@ -7496,7 +7496,7 @@ section {
     margin-bottom: 40px;
 }
 .our-philosophy {
-    background-image: url(https://via.placeholder.com/1920x705.png);
+    background-image: url(images/bg1-aboutus.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -7507,7 +7507,7 @@ section {
     border-color: #FFF;
 }
 .about-counter {
-    background-image: url(https://via.placeholder.com/1900x200.png);
+    background-image: url(images/bg2-aboutus.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7983,7 +7983,7 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     background: #F5592F;
 }
 .cta {
-    background-image: url(https://via.placeholder.com/1820x325.png);
+    background-image:url(images/bg1-home1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 70px 0 73px 0;
