@@ -1348,6 +1348,9 @@ a {
   color: #1a1a1a;
   text-decoration: none;
 }
+.Phno{
+  color:#fff !important;
+}
 a:hover, a:focus, a:active {
   color: #9f9e9e;
   text-decoration: none;
